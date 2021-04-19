@@ -24,6 +24,7 @@ img {
 }
 
 button {
-    display : flex;
-    margin : auto;
+    margin: auto;
+    display: flex;
 }
+
